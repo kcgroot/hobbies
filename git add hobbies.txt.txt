@@ -1,0 +1,6 @@
+git add hobbies.txt
+git commit -m "c2"
+git push -u origin bio-update
+git checkout main
+git merge bio-update
+git push origin main
